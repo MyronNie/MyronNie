@@ -1,6 +1,6 @@
 -  Hi, I’m MrCompasss
-  - I'm currently learning how to make software.
-- You can reach me at my Discord address:
+  - We provide software and cyber security training.
+- You can reach me at my Discord address:    https://discord.gg/WCBkTkjy (copy the link and paste it where needed)
  -You can help me improve my newly opened discord server.
 
 <!---
