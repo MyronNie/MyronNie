@@ -1,7 +1,6 @@
 -  Hi, I’m MrCompasss
--  I'm interested in chess
-- I'm currently learning how to make software.
-- You can reach me at my Discord address:muhammt_0721
+  - I'm currently learning how to make software.
+- You can reach me at my Discord address:
  -You can help me improve my newly opened discord server.
 
 <!---
